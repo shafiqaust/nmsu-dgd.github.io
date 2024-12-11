@@ -98,11 +98,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
-### Bingo - FuadAhmad, shafiqaust
+### Bingo - FuadAhmad, Md Zaman
 
 [Frenzy Bingo](https://fuadahmad.github.io/dgd_godot_project/)
 
-[v0.3](https://github.com/FuadAhmad/dgd-team-repo/releases/tag/v0.3)
+[v0.4](https://github.com/FuadAhmad/dgd-team-repo/releases/tag/v0.4)
 
 <img src="./art/FrenzyBingo.gif" alt="Frenzy Bingo" height="128"/>
 
